@@ -1,0 +1,101 @@
+disease_id,disease_name,disease_category,prevalence,clinical_feature,diagnostic_criteria,treatment_options,patient_id,age_at_diagnosis,gender,genetic_testing,study_id,study_name,publication_date,outcome,follow_up_date
+RD_0001,None,Autoimmune,"1 in 100,000",Dermatological,Genetic Testing,Medication,PAT_0001,44,Female,Negative,STUDY_0001,GenTest Research,2022-02-22,Stable,2022-11-15
+RD_0002,Fabry Disease,Infectious,Very Rare,Gastrointestinal,MRI,Medication,PAT_0002,10,Female,Negative,STUDY_0002,AutoImmune Trial,2022-08-26,Worsened,2024-06-18
+RD_0003,Gaucher Disease,Autoimmune,Very Rare,Neurological,Genetic Testing,None,PAT_0003,0,Female,Not Performed,STUDY_0003,RareDx Study,2021-09-03,Improved,2022-06-30
+RD_0004,None,Infectious,"1 in 100,000",Gastrointestinal,Blood Test,Medication,PAT_0004,23,Female,Positive,STUDY_0004,GenTest Research,2024-08-10,Worsened,2022-07-15
+RD_0005,Fabry Disease,Genetic,Very Rare,Neurological,Blood Test,Medication,PAT_0005,53,Male,Negative,STUDY_0005,GenTest Research,2021-04-26,Stable,2020-09-07
+RD_0006,Wilson's Disease,Infectious,Very Rare,Gastrointestinal,Genetic Testing,Surgery,PAT_0006,6,Male,Positive,STUDY_0006,GenTest Research,2022-05-10,Improved,2021-05-26
+RD_0007,None,Autoimmune,"1 in 50,000",Gastrointestinal,Blood Test,Medication,PAT_0007,24,Female,Positive,STUDY_0007,RareDx Study,2024-01-19,Worsened,2022-03-09
+RD_0008,Gaucher Disease,Autoimmune,Rare,Dermatological,Blood Test,None,PAT_0008,20,Male,Not Performed,STUDY_0008,AutoImmune Trial,2024-04-06,Worsened,2021-03-10
+RD_0009,Gaucher Disease,Infectious,Very Rare,Neurological,Blood Test,Surgery,PAT_0009,14,Female,Positive,STUDY_0009,GenTest Research,2022-04-23,Worsened,2020-12-15
+RD_0010,Gaucher Disease,Genetic,"1 in 50,000",Dermatological,Blood Test,None,PAT_0010,0,Other,Positive,STUDY_0010,GenTest Research,2022-12-27,Stable,2024-10-14
+RD_0011,Wilson's Disease,Genetic,Rare,Neurological,Genetic Testing,Medication,PAT_0011,11,Other,Not Performed,STUDY_0011,GenTest Research,2024-07-17,Stable,2024-04-16
+RD_0012,None,Infectious,"1 in 100,000",Gastrointestinal,MRI,None,PAT_0012,57,Other,Negative,STUDY_0012,GenTest Research,2021-06-23,Worsened,2020-07-20
+RD_0013,None,Infectious,"1 in 50,000",Gastrointestinal,MRI,Surgery,PAT_0013,6,Female,Positive,STUDY_0013,GenTest Research,2023-08-10,Improved,2021-04-28
+RD_0014,Wilson's Disease,Autoimmune,"1 in 50,000",Neurological,Blood Test,Enzyme Therapy,PAT_0014,14,Other,Not Performed,STUDY_0014,AutoImmune Trial,2021-06-18,Improved,2023-10-09
+RD_0015,None,Genetic,Rare,Dermatological,MRI,None,PAT_0015,20,Male,Positive,STUDY_0015,AutoImmune Trial,2023-09-09,Stable,2023-03-04
+RD_0016,Wilson's Disease,Infectious,"1 in 100,000",Dermatological,MRI,None,PAT_0016,18,Other,Positive,STUDY_0016,GenTest Research,2024-12-21,Improved,2024-03-04
+RD_0017,Wilson's Disease,Genetic,"1 in 50,000",Dermatological,Blood Test,Surgery,PAT_0017,59,Other,Negative,STUDY_0017,RareDx Study,2023-06-28,Stable,2025-04-15
+RD_0018,Wilson's Disease,Infectious,Very Rare,Dermatological,Blood Test,Surgery,PAT_0018,28,Other,Positive,STUDY_0018,AutoImmune Trial,2023-10-09,Worsened,2022-03-22
+RD_0019,Gaucher Disease,Infectious,Very Rare,Gastrointestinal,MRI,None,PAT_0019,24,Male,Not Performed,STUDY_0019,RareDx Study,2020-04-14,Stable,2023-08-01
+RD_0020,None,Genetic,Very Rare,Gastrointestinal,Genetic Testing,Medication,PAT_0020,32,Female,Positive,STUDY_0020,AutoImmune Trial,2023-07-25,Stable,2022-03-31
+RD_0021,Wilson's Disease,Infectious,"1 in 100,000",Gastrointestinal,Blood Test,None,PAT_0021,48,Male,Negative,STUDY_0021,GenTest Research,2021-06-24,Worsened,2022-04-09
+RD_0022,None,Infectious,"1 in 50,000",Gastrointestinal,Genetic Testing,Surgery,PAT_0022,31,Female,Negative,STUDY_0022,AutoImmune Trial,2023-07-25,Improved,2024-02-18
+RD_0023,Gaucher Disease,Autoimmune,Very Rare,Gastrointestinal,MRI,Enzyme Therapy,PAT_0023,48,Female,Not Performed,STUDY_0023,GenTest Research,2023-11-07,Stable,2022-11-01
+RD_0024,Wilson's Disease,Infectious,"1 in 100,000",Dermatological,Blood Test,Enzyme Therapy,PAT_0024,34,Other,Negative,STUDY_0024,AutoImmune Trial,2024-04-24,Stable,2022-10-17
+RD_0025,Fabry Disease,Infectious,Very Rare,Dermatological,Genetic Testing,Medication,PAT_0025,43,Female,Positive,STUDY_0025,GenTest Research,2025-01-24,Worsened,2024-02-23
+RD_0026,Gaucher Disease,Infectious,Rare,Dermatological,Blood Test,None,PAT_0026,37,Male,Negative,STUDY_0026,GenTest Research,2024-05-23,Improved,2025-02-11
+RD_0027,Fabry Disease,Autoimmune,"1 in 50,000",Dermatological,MRI,Enzyme Therapy,PAT_0027,25,Male,Not Performed,STUDY_0027,GenTest Research,2020-02-27,Stable,2021-04-25
+RD_0028,None,Genetic,"1 in 50,000",Gastrointestinal,Genetic Testing,None,PAT_0028,10,Female,Negative,STUDY_0028,GenTest Research,2022-09-14,Worsened,2021-10-05
+RD_0029,None,Autoimmune,"1 in 100,000",Gastrointestinal,MRI,Surgery,PAT_0029,34,Other,Negative,STUDY_0029,RareDx Study,2022-04-25,Stable,2025-01-03
+RD_0030,Gaucher Disease,Autoimmune,"1 in 100,000",Gastrointestinal,MRI,Enzyme Therapy,PAT_0030,7,Other,Negative,STUDY_0030,GenTest Research,2023-02-17,Worsened,2025-04-21
+RD_0031,None,Genetic,"1 in 50,000",Neurological,Blood Test,Medication,PAT_0031,45,Male,Not Performed,STUDY_0031,RareDx Study,2020-09-17,Improved,2020-12-31
+RD_0032,Fabry Disease,Autoimmune,Very Rare,Dermatological,Genetic Testing,Surgery,PAT_0032,13,Other,Negative,STUDY_0032,RareDx Study,2024-08-17,Improved,2022-04-07
+RD_0033,Wilson's Disease,Genetic,Very Rare,Dermatological,MRI,Medication,PAT_0033,9,Female,Negative,STUDY_0033,GenTest Research,2021-12-29,Improved,2020-10-07
+RD_0034,Wilson's Disease,Autoimmune,Rare,Gastrointestinal,MRI,Surgery,PAT_0034,1,Female,Positive,STUDY_0034,RareDx Study,2021-12-10,Improved,2020-07-25
+RD_0035,Wilson's Disease,Genetic,Very Rare,Dermatological,Genetic Testing,Enzyme Therapy,PAT_0035,45,Male,Not Performed,STUDY_0035,AutoImmune Trial,2020-05-07,Stable,2021-06-15
+RD_0036,Gaucher Disease,Infectious,"1 in 100,000",Dermatological,MRI,Medication,PAT_0036,8,Female,Negative,STUDY_0036,GenTest Research,2024-01-17,Stable,2023-05-01
+RD_0037,None,Autoimmune,"1 in 100,000",Gastrointestinal,MRI,Medication,PAT_0037,2,Male,Not Performed,STUDY_0037,RareDx Study,2022-11-28,Improved,2024-02-26
+RD_0038,Fabry Disease,Autoimmune,Very Rare,Neurological,Genetic Testing,Surgery,PAT_0038,20,Female,Negative,STUDY_0038,GenTest Research,2020-05-15,Improved,2023-10-10
+RD_0039,None,Autoimmune,"1 in 100,000",Neurological,Genetic Testing,Medication,PAT_0039,25,Male,Negative,STUDY_0039,GenTest Research,2022-10-17,Improved,2023-05-06
+RD_0040,None,Autoimmune,"1 in 50,000",Neurological,Genetic Testing,Surgery,PAT_0040,7,Other,Negative,STUDY_0040,GenTest Research,2023-10-05,Stable,2022-08-27
+RD_0041,None,Infectious,"1 in 50,000",Gastrointestinal,Genetic Testing,Surgery,PAT_0041,47,Female,Positive,STUDY_0041,RareDx Study,2022-09-15,Improved,2021-11-28
+RD_0042,Wilson's Disease,Autoimmune,Very Rare,Dermatological,Blood Test,Surgery,PAT_0042,1,Female,Positive,STUDY_0042,AutoImmune Trial,2024-04-17,Improved,2024-06-25
+RD_0043,Fabry Disease,Infectious,"1 in 50,000",Gastrointestinal,Genetic Testing,Surgery,PAT_0043,5,Male,Positive,STUDY_0043,AutoImmune Trial,2024-02-07,Improved,2023-08-11
+RD_0044,Fabry Disease,Infectious,"1 in 50,000",Gastrointestinal,Blood Test,Enzyme Therapy,PAT_0044,27,Male,Not Performed,STUDY_0044,RareDx Study,2023-06-05,Worsened,2022-11-02
+RD_0045,None,Infectious,Rare,Dermatological,Blood Test,Surgery,PAT_0045,52,Female,Not Performed,STUDY_0045,GenTest Research,2023-08-19,Improved,2021-01-16
+RD_0046,Wilson's Disease,Infectious,Rare,Neurological,Blood Test,None,PAT_0046,28,Male,Positive,STUDY_0046,RareDx Study,2021-12-03,Worsened,2024-05-22
+RD_0047,Wilson's Disease,Genetic,"1 in 50,000",Neurological,MRI,Medication,PAT_0047,25,Female,Not Performed,STUDY_0047,RareDx Study,2023-05-06,Worsened,2020-09-24
+RD_0048,Fabry Disease,Genetic,Very Rare,Gastrointestinal,Blood Test,None,PAT_0048,24,Other,Negative,STUDY_0048,RareDx Study,2021-01-03,Improved,2024-07-04
+RD_0049,Wilson's Disease,Autoimmune,Rare,Neurological,Blood Test,Enzyme Therapy,PAT_0049,11,Male,Negative,STUDY_0049,GenTest Research,2020-11-25,Worsened,2020-09-25
+RD_0050,Wilson's Disease,Genetic,"1 in 100,000",Gastrointestinal,MRI,None,PAT_0050,4,Female,Negative,STUDY_0050,RareDx Study,2022-06-02,Improved,2022-11-24
+RD_0051,Wilson's Disease,Genetic,"1 in 100,000",Gastrointestinal,MRI,Medication,PAT_0051,33,Other,Positive,STUDY_0051,GenTest Research,2025-01-31,Stable,2024-03-20
+RD_0052,Gaucher Disease,Autoimmune,"1 in 100,000",Dermatological,MRI,None,PAT_0052,47,Other,Not Performed,STUDY_0052,RareDx Study,2020-01-23,Stable,2024-02-15
+RD_0053,None,Autoimmune,Very Rare,Dermatological,Genetic Testing,Enzyme Therapy,PAT_0053,36,Female,Positive,STUDY_0053,AutoImmune Trial,2020-01-12,Stable,2023-08-06
+RD_0054,Fabry Disease,Autoimmune,"1 in 50,000",Dermatological,MRI,Surgery,PAT_0054,14,Male,Not Performed,STUDY_0054,RareDx Study,2023-08-11,Stable,2023-02-14
+RD_0055,Fabry Disease,Genetic,"1 in 100,000",Gastrointestinal,MRI,None,PAT_0055,43,Female,Negative,STUDY_0055,RareDx Study,2023-03-23,Worsened,2024-01-12
+RD_0056,Gaucher Disease,Genetic,Very Rare,Dermatological,Blood Test,Enzyme Therapy,PAT_0056,35,Other,Positive,STUDY_0056,AutoImmune Trial,2020-06-25,Improved,2021-02-07
+RD_0057,None,Autoimmune,Rare,Neurological,MRI,Enzyme Therapy,PAT_0057,14,Female,Not Performed,STUDY_0057,GenTest Research,2023-09-19,Improved,2025-03-18
+RD_0058,Fabry Disease,Infectious,"1 in 50,000",Neurological,Genetic Testing,Medication,PAT_0058,42,Male,Not Performed,STUDY_0058,GenTest Research,2025-03-07,Improved,2020-08-14
+RD_0059,Wilson's Disease,Autoimmune,Rare,Gastrointestinal,MRI,Medication,PAT_0059,47,Other,Negative,STUDY_0059,RareDx Study,2023-07-14,Stable,2024-06-15
+RD_0060,Fabry Disease,Infectious,Very Rare,Gastrointestinal,Genetic Testing,None,PAT_0060,22,Female,Positive,STUDY_0060,AutoImmune Trial,2021-08-14,Stable,2020-08-28
+RD_0061,Wilson's Disease,Infectious,"1 in 100,000",Dermatological,MRI,Surgery,PAT_0061,5,Male,Positive,STUDY_0061,GenTest Research,2020-03-20,Improved,2021-11-15
+RD_0062,Gaucher Disease,Autoimmune,"1 in 100,000",Gastrointestinal,MRI,Enzyme Therapy,PAT_0062,45,Other,Positive,STUDY_0062,RareDx Study,2025-03-06,Stable,2022-11-08
+RD_0063,Wilson's Disease,Autoimmune,Very Rare,Gastrointestinal,MRI,None,PAT_0063,49,Male,Negative,STUDY_0063,AutoImmune Trial,2022-12-17,Improved,2023-11-03
+RD_0064,Fabry Disease,Autoimmune,"1 in 100,000",Neurological,MRI,Enzyme Therapy,PAT_0064,43,Other,Positive,STUDY_0064,GenTest Research,2020-09-05,Improved,2020-08-27
+RD_0065,Fabry Disease,Genetic,"1 in 50,000",Neurological,Genetic Testing,Enzyme Therapy,PAT_0065,58,Female,Negative,STUDY_0065,GenTest Research,2021-04-15,Improved,2023-02-26
+RD_0066,Fabry Disease,Infectious,Very Rare,Dermatological,Genetic Testing,Surgery,PAT_0066,42,Male,Negative,STUDY_0066,AutoImmune Trial,2024-12-04,Improved,2021-12-19
+RD_0067,Gaucher Disease,Genetic,Rare,Gastrointestinal,Blood Test,Surgery,PAT_0067,44,Other,Negative,STUDY_0067,AutoImmune Trial,2020-06-28,Improved,2024-05-23
+RD_0068,Gaucher Disease,Genetic,Very Rare,Gastrointestinal,Genetic Testing,None,PAT_0068,20,Male,Not Performed,STUDY_0068,AutoImmune Trial,2024-12-30,Improved,2021-01-15
+RD_0069,None,Autoimmune,"1 in 50,000",Neurological,MRI,Surgery,PAT_0069,22,Male,Positive,STUDY_0069,AutoImmune Trial,2020-03-03,Improved,2020-10-18
+RD_0070,Fabry Disease,Genetic,"1 in 50,000",Gastrointestinal,Blood Test,Surgery,PAT_0070,42,Female,Positive,STUDY_0070,RareDx Study,2022-05-25,Stable,2020-03-16
+RD_0071,Wilson's Disease,Autoimmune,Very Rare,Neurological,Blood Test,None,PAT_0071,54,Male,Negative,STUDY_0071,AutoImmune Trial,2020-11-29,Improved,2024-09-29
+RD_0072,Gaucher Disease,Infectious,Very Rare,Dermatological,Blood Test,Surgery,PAT_0072,15,Other,Negative,STUDY_0072,GenTest Research,2025-02-16,Improved,2022-04-28
+RD_0073,Fabry Disease,Autoimmune,"1 in 100,000",Neurological,MRI,Medication,PAT_0073,46,Other,Positive,STUDY_0073,GenTest Research,2023-01-24,Stable,2023-06-03
+RD_0074,Fabry Disease,Genetic,"1 in 50,000",Gastrointestinal,Genetic Testing,Enzyme Therapy,PAT_0074,52,Other,Negative,STUDY_0074,RareDx Study,2020-03-14,Stable,2021-11-13
+RD_0075,Gaucher Disease,Genetic,Very Rare,Dermatological,MRI,Enzyme Therapy,PAT_0075,59,Other,Positive,STUDY_0075,GenTest Research,2022-04-27,Stable,2025-04-18
+RD_0076,None,Autoimmune,Very Rare,Neurological,Blood Test,Enzyme Therapy,PAT_0076,14,Female,Not Performed,STUDY_0076,GenTest Research,2021-02-22,Improved,2022-12-13
+RD_0077,Gaucher Disease,Autoimmune,"1 in 50,000",Neurological,MRI,Enzyme Therapy,PAT_0077,24,Male,Negative,STUDY_0077,AutoImmune Trial,2021-04-25,Worsened,2020-03-06
+RD_0078,Gaucher Disease,Genetic,Very Rare,Dermatological,MRI,None,PAT_0078,35,Female,Positive,STUDY_0078,GenTest Research,2023-05-05,Worsened,2021-04-09
+RD_0079,Wilson's Disease,Infectious,"1 in 100,000",Dermatological,Genetic Testing,Enzyme Therapy,PAT_0079,10,Male,Negative,STUDY_0079,RareDx Study,2024-06-11,Stable,2024-07-04
+RD_0080,Wilson's Disease,Infectious,"1 in 50,000",Neurological,Genetic Testing,Enzyme Therapy,PAT_0080,50,Male,Positive,STUDY_0080,AutoImmune Trial,2022-10-23,Worsened,2023-07-01
+RD_0081,None,Autoimmune,"1 in 100,000",Gastrointestinal,Blood Test,Enzyme Therapy,PAT_0081,14,Male,Positive,STUDY_0081,AutoImmune Trial,2023-12-12,Stable,2021-12-09
+RD_0082,Fabry Disease,Infectious,"1 in 100,000",Neurological,MRI,Enzyme Therapy,PAT_0082,3,Female,Negative,STUDY_0082,RareDx Study,2023-09-08,Improved,2024-07-16
+RD_0083,Gaucher Disease,Genetic,"1 in 100,000",Dermatological,MRI,Medication,PAT_0083,20,Male,Not Performed,STUDY_0083,AutoImmune Trial,2023-12-27,Worsened,2020-07-03
+RD_0084,None,Autoimmune,"1 in 100,000",Neurological,Genetic Testing,Enzyme Therapy,PAT_0084,12,Female,Positive,STUDY_0084,AutoImmune Trial,2024-06-12,Improved,2024-09-16
+RD_0085,Wilson's Disease,Genetic,"1 in 50,000",Dermatological,MRI,Medication,PAT_0085,21,Other,Positive,STUDY_0085,RareDx Study,2023-11-25,Worsened,2025-02-08
+RD_0086,Gaucher Disease,Genetic,"1 in 100,000",Dermatological,MRI,None,PAT_0086,18,Other,Positive,STUDY_0086,AutoImmune Trial,2024-06-18,Improved,2025-01-15
+RD_0087,Fabry Disease,Infectious,"1 in 100,000",Gastrointestinal,MRI,Surgery,PAT_0087,33,Male,Not Performed,STUDY_0087,RareDx Study,2023-05-21,Worsened,2021-12-16
+RD_0088,Wilson's Disease,Autoimmune,Very Rare,Dermatological,Genetic Testing,Enzyme Therapy,PAT_0088,13,Female,Not Performed,STUDY_0088,RareDx Study,2021-10-06,Improved,2021-07-10
+RD_0089,Wilson's Disease,Autoimmune,"1 in 50,000",Dermatological,Blood Test,Surgery,PAT_0089,3,Other,Negative,STUDY_0089,GenTest Research,2023-06-18,Improved,2021-07-09
+RD_0090,Wilson's Disease,Infectious,"1 in 50,000",Gastrointestinal,Blood Test,Surgery,PAT_0090,47,Female,Not Performed,STUDY_0090,GenTest Research,2022-07-16,Worsened,2022-06-24
+RD_0091,None,Genetic,Rare,Dermatological,MRI,None,PAT_0091,52,Female,Negative,STUDY_0091,AutoImmune Trial,2025-04-05,Improved,2023-02-20
+RD_0092,Fabry Disease,Genetic,"1 in 50,000",Gastrointestinal,Blood Test,Surgery,PAT_0092,51,Male,Negative,STUDY_0092,AutoImmune Trial,2024-05-05,Improved,2021-07-05
+RD_0093,Gaucher Disease,Genetic,"1 in 50,000",Gastrointestinal,Genetic Testing,Medication,PAT_0093,45,Other,Not Performed,STUDY_0093,RareDx Study,2023-05-27,Improved,2021-11-13
+RD_0094,None,Genetic,Rare,Dermatological,Genetic Testing,Surgery,PAT_0094,26,Male,Negative,STUDY_0094,AutoImmune Trial,2021-03-05,Worsened,2021-08-03
+RD_0095,None,Autoimmune,"1 in 50,000",Dermatological,Blood Test,Surgery,PAT_0095,28,Male,Not Performed,STUDY_0095,RareDx Study,2024-07-04,Worsened,2020-11-21
+RD_0096,None,Autoimmune,"1 in 50,000",Neurological,Blood Test,Surgery,PAT_0096,46,Other,Negative,STUDY_0096,RareDx Study,2024-02-02,Improved,2020-08-28
+RD_0097,Wilson's Disease,Infectious,"1 in 50,000",Gastrointestinal,MRI,Enzyme Therapy,PAT_0097,27,Other,Not Performed,STUDY_0097,AutoImmune Trial,2020-02-12,Improved,2022-03-31
+RD_0098,Fabry Disease,Infectious,"1 in 50,000",Neurological,Blood Test,Enzyme Therapy,PAT_0098,34,Female,Not Performed,STUDY_0098,RareDx Study,2020-03-24,Worsened,2025-01-02
+RD_0099,None,Autoimmune,Rare,Dermatological,MRI,Medication,PAT_0099,7,Other,Negative,STUDY_0099,GenTest Research,2022-08-03,Worsened,2023-06-23
+RD_0100,Gaucher Disease,Autoimmune,"1 in 50,000",Neurological,MRI,Medication,PAT_0100,15,Female,Positive,STUDY_0100,AutoImmune Trial,2023-04-25,Improved,2021-06-03
