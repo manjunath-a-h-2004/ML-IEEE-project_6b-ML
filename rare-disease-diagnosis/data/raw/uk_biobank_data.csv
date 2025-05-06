@@ -1,0 +1,101 @@
+participant_id,age,gender,ethnicity,height,weight,health_condition,symptoms,medications,family_history,smoking_status,alcohol_consumption,blood_pressure,cholesterol_level,blood_sugar,physical_activity,dietary_habits,follow_up_date,outcome
+UKB_0001,78,Other,Other,170.0,53.1,Heart Disease,Pain,Lisinopril,No,Never,Low,130/85,HDL: 50,110,Moderate,Mixed,2020-12-29,Not Diagnosed
+UKB_0002,68,Other,White,154.3,89.2,Diabetes,Shortness of Breath,Atorvastatin,Yes,Current,High,140/90,HDL: 50,90,Sedentary,Non-Vegetarian,2022-08-03,Not Diagnosed
+UKB_0003,54,Female,White,184.8,69.6,Diabetes,Fatigue,Lisinopril,No,Former,Low,130/85,HDL: 50,110,Moderate,Mixed,2023-11-12,Diagnosed
+UKB_0004,47,Male,Black,174.0,44.3,Diabetes,Pain,Metformin,No,Former,Low,130/85,LDL: 160,90,Moderate,Non-Vegetarian,2024-09-07,Not Diagnosed
+UKB_0005,60,Other,Asian,152.2,54.4,Diabetes,Shortness of Breath,Lisinopril,Yes,Former,Low,110/70,LDL: 160,70,Moderate,Mixed,2022-10-01,Diagnosed
+UKB_0006,78,Female,Other,167.6,89.9,None,Fatigue,Metformin,No,Current,None,130/85,HDL: 40,140,Active,Vegetarian,2022-04-28,Diagnosed
+UKB_0007,58,Other,Hispanic,173.3,76.7,Diabetes,Pain,Lisinopril,No,Never,Moderate,120/80,LDL: 130,70,Active,Non-Vegetarian,2023-03-30,Diagnosed
+UKB_0008,62,Other,Asian,175.1,68.8,None,Pain,Metformin,Yes,Former,Low,130/85,HDL: 40,110,Moderate,Mixed,2022-01-16,Diagnosed
+UKB_0009,50,Male,Hispanic,168.7,36.7,None,None,Metformin,No,Former,None,120/80,LDL: 130,110,Moderate,Vegan,2025-04-23,Not Diagnosed
+UKB_0010,50,Other,Black,173.4,90.8,Diabetes,Fatigue,Metformin,Yes,Current,Low,120/80,LDL: 160,70,Active,Mixed,2023-02-16,Not Diagnosed
+UKB_0011,63,Male,Black,191.2,98.1,Diabetes,Fatigue,Atorvastatin,No,Former,Low,120/80,LDL: 160,70,Active,Vegan,2023-09-05,Diagnosed
+UKB_0012,75,Other,White,185.5,95.3,Hypertension,Shortness of Breath,Lisinopril,Yes,Current,None,140/90,LDL: 160,90,Sedentary,Vegan,2020-05-10,Not Diagnosed
+UKB_0013,79,Female,Other,160.5,60.8,Heart Disease,None,Lisinopril,Yes,Never,Moderate,110/70,HDL: 40,110,Sedentary,Vegetarian,2024-12-11,Diagnosed
+UKB_0014,63,Other,Hispanic,164.0,75.7,Diabetes,None,Lisinopril,No,Current,Moderate,120/80,HDL: 50,110,Active,Non-Vegetarian,2023-06-13,Not Diagnosed
+UKB_0015,42,Male,Asian,168.9,77.4,Hypertension,None,Metformin,No,Current,High,120/80,HDL: 50,70,Moderate,Mixed,2021-03-23,Not Diagnosed
+UKB_0016,61,Male,Black,152.5,47.1,Hypertension,None,Lisinopril,No,Current,None,140/90,LDL: 160,140,Moderate,Vegetarian,2021-12-17,Diagnosed
+UKB_0017,41,Female,White,156.6,72.7,Heart Disease,Fatigue,Lisinopril,No,Current,High,120/80,HDL: 50,110,Moderate,Mixed,2020-12-28,Not Diagnosed
+UKB_0018,63,Other,White,153.8,86.1,None,Fatigue,Metformin,No,Never,High,130/85,HDL: 50,140,Moderate,Vegan,2021-01-06,Diagnosed
+UKB_0019,69,Other,Hispanic,158.5,81.5,Diabetes,Pain,None,Yes,Never,High,130/85,HDL: 40,70,Sedentary,Non-Vegetarian,2023-01-04,Not Diagnosed
+UKB_0020,77,Female,Black,183.9,53.3,Heart Disease,Pain,Metformin,No,Former,Moderate,110/70,LDL: 130,70,Active,Mixed,2022-01-23,Diagnosed
+UKB_0021,41,Other,Other,161.4,57.1,Diabetes,None,Lisinopril,Yes,Never,None,120/80,LDL: 160,90,Moderate,Mixed,2025-01-17,Diagnosed
+UKB_0022,60,Other,Black,159.7,81.9,Hypertension,None,Metformin,Yes,Never,High,140/90,LDL: 160,110,Sedentary,Vegan,2023-09-08,Not Diagnosed
+UKB_0023,72,Male,Hispanic,178.8,79.5,Hypertension,None,None,No,Former,None,130/85,HDL: 40,140,Moderate,Mixed,2022-03-01,Not Diagnosed
+UKB_0024,51,Other,Hispanic,165.5,36.2,None,Pain,Metformin,Yes,Never,None,140/90,HDL: 40,90,Active,Mixed,2025-03-24,Diagnosed
+UKB_0025,61,Other,Black,174.2,33.2,Hypertension,Shortness of Breath,Lisinopril,Yes,Current,Moderate,140/90,HDL: 50,110,Sedentary,Vegan,2024-07-25,Not Diagnosed
+UKB_0026,64,Female,Hispanic,162.7,68.9,Hypertension,Shortness of Breath,None,Yes,Current,High,130/85,LDL: 160,90,Active,Vegetarian,2024-09-02,Not Diagnosed
+UKB_0027,66,Female,Black,152.0,61.2,Heart Disease,Pain,Atorvastatin,Yes,Former,High,140/90,LDL: 130,70,Active,Vegan,2024-05-17,Diagnosed
+UKB_0028,67,Male,Asian,174.7,65.5,Diabetes,Pain,Lisinopril,No,Former,None,130/85,HDL: 40,110,Sedentary,Vegetarian,2025-02-07,Diagnosed
+UKB_0029,55,Other,Black,154.5,63.8,Diabetes,Pain,None,Yes,Former,Low,140/90,LDL: 130,90,Sedentary,Non-Vegetarian,2021-05-10,Not Diagnosed
+UKB_0030,54,Other,Black,164.9,84.8,Heart Disease,Pain,None,No,Current,Moderate,130/85,LDL: 130,90,Sedentary,Vegetarian,2024-09-20,Diagnosed
+UKB_0031,42,Other,Hispanic,162.7,71.6,None,Pain,Atorvastatin,No,Never,Moderate,120/80,LDL: 160,140,Sedentary,Vegetarian,2022-05-18,Diagnosed
+UKB_0032,76,Male,Hispanic,172.0,74.0,Diabetes,Pain,Metformin,Yes,Current,Moderate,110/70,LDL: 160,90,Sedentary,Non-Vegetarian,2024-06-21,Diagnosed
+UKB_0033,46,Male,White,164.4,49.9,Hypertension,None,Metformin,No,Former,Moderate,130/85,HDL: 40,110,Sedentary,Vegetarian,2024-05-18,Not Diagnosed
+UKB_0034,60,Female,White,168.7,19.5,Diabetes,None,Lisinopril,No,Never,High,130/85,LDL: 160,110,Sedentary,Vegan,2023-01-04,Not Diagnosed
+UKB_0035,48,Male,Asian,154.4,86.9,Hypertension,None,Atorvastatin,No,Never,High,110/70,LDL: 160,140,Moderate,Vegetarian,2021-11-17,Diagnosed
+UKB_0036,78,Other,White,190.0,102.1,None,None,Metformin,Yes,Current,Low,130/85,LDL: 160,110,Active,Non-Vegetarian,2023-12-07,Not Diagnosed
+UKB_0037,57,Other,Black,158.0,64.9,Heart Disease,Pain,Atorvastatin,No,Former,Moderate,130/85,LDL: 130,70,Sedentary,Vegan,2024-03-18,Diagnosed
+UKB_0038,43,Male,Hispanic,182.0,73.7,Diabetes,Shortness of Breath,Metformin,No,Current,Moderate,140/90,HDL: 40,110,Moderate,Non-Vegetarian,2022-08-30,Not Diagnosed
+UKB_0039,64,Other,White,171.5,74.9,Heart Disease,Fatigue,None,No,Never,None,110/70,HDL: 50,110,Moderate,Non-Vegetarian,2021-10-10,Diagnosed
+UKB_0040,53,Other,White,171.4,95.1,Diabetes,Pain,Metformin,Yes,Current,High,120/80,LDL: 130,90,Moderate,Mixed,2022-12-11,Diagnosed
+UKB_0041,48,Male,Asian,173.5,83.3,Hypertension,Fatigue,Atorvastatin,No,Current,Moderate,130/85,LDL: 160,90,Active,Mixed,2023-01-11,Not Diagnosed
+UKB_0042,65,Male,Asian,151.2,77.4,Heart Disease,Shortness of Breath,None,Yes,Former,Low,110/70,LDL: 130,110,Sedentary,Non-Vegetarian,2020-01-25,Diagnosed
+UKB_0043,41,Other,Black,179.7,70.8,Diabetes,None,None,Yes,Former,Low,140/90,LDL: 160,140,Moderate,Non-Vegetarian,2021-03-09,Not Diagnosed
+UKB_0044,59,Other,Hispanic,164.9,70.9,Hypertension,Shortness of Breath,None,Yes,Never,High,120/80,LDL: 160,90,Active,Non-Vegetarian,2020-04-11,Not Diagnosed
+UKB_0045,67,Other,Asian,182.1,48.4,Heart Disease,Pain,Atorvastatin,Yes,Current,Low,110/70,LDL: 130,140,Active,Mixed,2024-05-20,Diagnosed
+UKB_0046,46,Female,White,168.5,64.2,Heart Disease,None,Lisinopril,Yes,Current,Low,120/80,HDL: 40,110,Active,Mixed,2020-08-19,Diagnosed
+UKB_0047,47,Female,Hispanic,166.3,83.3,Diabetes,Pain,Lisinopril,Yes,Current,High,120/80,LDL: 160,110,Moderate,Vegetarian,2023-01-11,Not Diagnosed
+UKB_0048,74,Female,Hispanic,157.1,66.5,Diabetes,None,Lisinopril,No,Never,Moderate,120/80,HDL: 40,70,Sedentary,Vegetarian,2024-04-21,Diagnosed
+UKB_0049,53,Male,White,162.3,70.7,Diabetes,Fatigue,Atorvastatin,Yes,Never,Moderate,130/85,HDL: 50,90,Moderate,Non-Vegetarian,2021-12-31,Diagnosed
+UKB_0050,56,Female,Asian,174.2,52.4,Hypertension,Fatigue,None,No,Former,Low,130/85,LDL: 160,110,Moderate,Vegan,2020-01-03,Diagnosed
+UKB_0051,75,Male,White,156.9,76.7,Diabetes,Fatigue,Lisinopril,No,Former,Low,140/90,HDL: 40,70,Sedentary,Vegan,2024-11-19,Diagnosed
+UKB_0052,79,Male,Hispanic,150.1,48.1,Heart Disease,Shortness of Breath,Atorvastatin,Yes,Former,Moderate,140/90,HDL: 40,90,Sedentary,Mixed,2025-04-05,Diagnosed
+UKB_0053,43,Female,Other,161.4,74.3,Heart Disease,Pain,Lisinopril,No,Current,High,110/70,HDL: 50,110,Sedentary,Mixed,2025-01-06,Not Diagnosed
+UKB_0054,41,Female,Other,178.4,67.2,Diabetes,Shortness of Breath,Metformin,No,Current,Low,140/90,HDL: 40,110,Active,Mixed,2021-05-22,Not Diagnosed
+UKB_0055,45,Female,Black,187.8,43.9,Diabetes,Fatigue,Lisinopril,No,Former,None,120/80,HDL: 40,90,Sedentary,Non-Vegetarian,2021-01-03,Diagnosed
+UKB_0056,43,Other,White,163.2,86.0,None,Pain,Lisinopril,No,Current,High,120/80,HDL: 50,90,Moderate,Vegan,2024-10-28,Diagnosed
+UKB_0057,68,Female,White,154.5,67.5,Heart Disease,Fatigue,None,Yes,Former,Low,130/85,LDL: 160,90,Sedentary,Vegetarian,2023-08-30,Diagnosed
+UKB_0058,57,Other,Black,166.6,97.9,Hypertension,Shortness of Breath,Atorvastatin,No,Never,Low,120/80,HDL: 40,110,Moderate,Non-Vegetarian,2020-01-14,Not Diagnosed
+UKB_0059,65,Male,Black,171.8,92.2,None,Shortness of Breath,None,Yes,Former,None,110/70,HDL: 40,110,Active,Vegetarian,2022-09-05,Diagnosed
+UKB_0060,73,Other,Black,175.8,56.8,Diabetes,Shortness of Breath,None,No,Never,None,120/80,HDL: 40,70,Moderate,Vegetarian,2024-08-28,Not Diagnosed
+UKB_0061,49,Female,Hispanic,191.3,58.1,Diabetes,Fatigue,None,No,Current,Moderate,120/80,LDL: 130,140,Moderate,Non-Vegetarian,2020-12-20,Not Diagnosed
+UKB_0062,75,Male,White,172.3,52.4,Heart Disease,Pain,None,Yes,Former,High,110/70,HDL: 50,90,Sedentary,Vegetarian,2024-01-14,Not Diagnosed
+UKB_0063,53,Male,Hispanic,186.6,46.2,Diabetes,Pain,None,No,Current,High,140/90,LDL: 130,110,Sedentary,Vegan,2023-12-21,Diagnosed
+UKB_0064,70,Male,Black,165.4,63.7,Hypertension,Fatigue,Lisinopril,No,Never,Moderate,140/90,HDL: 50,110,Moderate,Vegetarian,2022-08-15,Not Diagnosed
+UKB_0065,54,Other,White,170.9,91.7,Heart Disease,Pain,None,No,Never,High,110/70,LDL: 160,90,Sedentary,Vegan,2021-02-15,Diagnosed
+UKB_0066,47,Female,Hispanic,164.1,41.3,Diabetes,Fatigue,None,Yes,Never,High,130/85,LDL: 160,140,Active,Vegan,2020-07-23,Not Diagnosed
+UKB_0067,53,Male,Hispanic,163.2,82.8,Heart Disease,Pain,Atorvastatin,No,Current,High,120/80,HDL: 40,90,Active,Vegan,2022-03-21,Diagnosed
+UKB_0068,62,Male,Black,167.4,81.5,Diabetes,None,Metformin,Yes,Current,High,110/70,HDL: 50,140,Sedentary,Mixed,2020-05-27,Not Diagnosed
+UKB_0069,79,Male,White,167.2,78.3,Diabetes,None,Lisinopril,No,Current,High,120/80,LDL: 160,110,Active,Vegetarian,2024-10-03,Diagnosed
+UKB_0070,60,Other,Black,164.0,81.0,Diabetes,Shortness of Breath,Lisinopril,Yes,Current,None,130/85,HDL: 50,140,Sedentary,Non-Vegetarian,2020-06-30,Not Diagnosed
+UKB_0071,55,Other,White,164.5,53.4,Hypertension,None,Lisinopril,Yes,Never,High,120/80,LDL: 160,70,Moderate,Non-Vegetarian,2021-08-30,Diagnosed
+UKB_0072,57,Female,Other,181.0,81.4,Hypertension,None,None,No,Never,None,110/70,LDL: 130,110,Moderate,Vegetarian,2021-12-02,Diagnosed
+UKB_0073,63,Other,Asian,191.1,61.8,Heart Disease,None,None,No,Former,High,120/80,LDL: 160,70,Active,Mixed,2020-05-17,Diagnosed
+UKB_0074,65,Male,Asian,165.0,33.1,Diabetes,Fatigue,None,Yes,Former,Moderate,140/90,LDL: 130,90,Sedentary,Mixed,2023-12-07,Diagnosed
+UKB_0075,64,Female,Asian,166.8,70.9,Diabetes,None,Atorvastatin,Yes,Current,Low,130/85,LDL: 160,90,Sedentary,Vegan,2023-04-04,Not Diagnosed
+UKB_0076,68,Male,Black,175.2,57.3,Hypertension,None,Metformin,No,Never,None,130/85,HDL: 40,90,Active,Vegetarian,2020-04-13,Not Diagnosed
+UKB_0077,54,Male,Other,201.9,90.4,Diabetes,Shortness of Breath,None,Yes,Never,High,130/85,LDL: 130,140,Moderate,Vegetarian,2023-03-26,Diagnosed
+UKB_0078,40,Other,White,170.8,65.7,Hypertension,None,Metformin,No,Never,Moderate,110/70,LDL: 160,110,Active,Non-Vegetarian,2023-11-22,Not Diagnosed
+UKB_0079,64,Female,Hispanic,179.7,70.7,Diabetes,None,Atorvastatin,No,Former,Low,130/85,HDL: 40,90,Moderate,Vegetarian,2021-04-23,Diagnosed
+UKB_0080,46,Other,White,185.4,75.8,Heart Disease,Pain,Lisinopril,No,Former,None,140/90,LDL: 130,90,Sedentary,Mixed,2020-12-16,Diagnosed
+UKB_0081,48,Other,Hispanic,173.4,66.0,Diabetes,Shortness of Breath,None,No,Never,Low,110/70,HDL: 40,110,Moderate,Vegetarian,2021-12-03,Not Diagnosed
+UKB_0082,63,Female,White,179.3,68.4,Diabetes,Shortness of Breath,Metformin,Yes,Never,Moderate,140/90,HDL: 50,90,Active,Non-Vegetarian,2020-08-30,Diagnosed
+UKB_0083,40,Male,Other,176.1,82.7,None,Shortness of Breath,Metformin,No,Never,None,120/80,HDL: 50,70,Sedentary,Vegan,2023-10-03,Diagnosed
+UKB_0084,47,Male,Hispanic,180.3,54.0,Hypertension,Shortness of Breath,None,Yes,Former,Low,120/80,LDL: 130,110,Active,Non-Vegetarian,2025-01-09,Not Diagnosed
+UKB_0085,63,Female,Black,159.7,59.5,Diabetes,Shortness of Breath,Lisinopril,No,Never,High,120/80,LDL: 160,110,Active,Non-Vegetarian,2023-09-04,Diagnosed
+UKB_0086,50,Male,White,172.0,55.5,Diabetes,Shortness of Breath,Lisinopril,Yes,Never,None,120/80,LDL: 130,110,Moderate,Vegan,2023-04-13,Diagnosed
+UKB_0087,56,Female,White,174.8,91.6,None,Fatigue,Lisinopril,No,Current,Low,140/90,HDL: 40,70,Active,Non-Vegetarian,2022-02-01,Diagnosed
+UKB_0088,47,Female,Hispanic,174.7,59.5,None,None,Atorvastatin,Yes,Current,Moderate,110/70,LDL: 160,110,Moderate,Non-Vegetarian,2024-05-28,Diagnosed
+UKB_0089,74,Other,Black,181.4,67.9,Hypertension,Shortness of Breath,Metformin,Yes,Former,Moderate,110/70,HDL: 50,70,Sedentary,Vegetarian,2020-07-10,Not Diagnosed
+UKB_0090,74,Female,Black,174.5,61.0,None,None,Metformin,No,Never,None,130/85,LDL: 160,110,Moderate,Vegetarian,2024-10-28,Not Diagnosed
+UKB_0091,72,Other,Other,158.6,65.4,Heart Disease,None,Metformin,No,Never,Low,140/90,HDL: 50,140,Sedentary,Vegan,2022-09-16,Not Diagnosed
+UKB_0092,44,Male,Black,175.9,58.9,None,Fatigue,Atorvastatin,No,Current,None,120/80,LDL: 160,90,Moderate,Vegetarian,2021-11-16,Diagnosed
+UKB_0093,78,Male,Black,161.2,76.9,Heart Disease,Shortness of Breath,Metformin,No,Former,None,140/90,LDL: 160,140,Active,Vegetarian,2021-04-22,Diagnosed
+UKB_0094,67,Male,Black,163.0,54.4,Hypertension,Pain,Atorvastatin,Yes,Current,Low,130/85,LDL: 160,90,Moderate,Non-Vegetarian,2020-05-20,Not Diagnosed
+UKB_0095,46,Male,Asian,165.8,49.7,Hypertension,Fatigue,Lisinopril,No,Current,Low,130/85,HDL: 40,70,Moderate,Mixed,2023-04-28,Diagnosed
+UKB_0096,48,Other,Other,168.9,61.6,Hypertension,Pain,None,Yes,Current,High,140/90,HDL: 40,140,Sedentary,Vegetarian,2020-12-16,Diagnosed
+UKB_0097,47,Male,White,154.6,58.0,Hypertension,None,Metformin,Yes,Current,Low,140/90,LDL: 130,110,Active,Mixed,2024-08-26,Diagnosed
+UKB_0098,51,Female,Hispanic,181.2,49.9,Hypertension,None,Metformin,No,Never,Moderate,140/90,LDL: 130,90,Moderate,Vegetarian,2021-07-31,Diagnosed
+UKB_0099,73,Female,White,158.4,65.1,Heart Disease,Fatigue,Lisinopril,Yes,Never,None,110/70,HDL: 50,90,Active,Vegetarian,2023-01-17,Not Diagnosed
+UKB_0100,72,Female,Other,185.7,45.1,Heart Disease,Fatigue,None,Yes,Current,None,120/80,HDL: 40,140,Moderate,Vegan,2023-01-05,Not Diagnosed
