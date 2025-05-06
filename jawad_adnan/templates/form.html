@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Telemedicine Triage Prediction</title>
+</head>
+<body>
+    <h2>Enter Patient Details</h2>
+    <h3> Sample Outputs: <br> 
+        Low: {35,1,0,0} <br>
+        Medium: {45,1,1,0} <br>
+        High: {45,1,1,1} <br>
+    </h3>
+    <form action="/predict" method="post">
+        Age: <input type="number" name="age" required><br><br>
+        Fever (1/0): <input type="number" name="fever" required><br><br>
+        Chest Pain (1/0): <input type="number" name="chest_pain" required><br><br>
+        Breathing Difficulty (1/0): <input type="number" name="breathing" required><br><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>
