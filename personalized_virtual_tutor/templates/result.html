@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="bg-white p-8 rounded shadow-md w-full max-w-md text-center">
+        <h1 class="text-2xl font-bold text-green-600 mb-4">Recommendation Result</h1>
+        <p class="text-gray-800"><strong>Topic:</strong> {{ topic }}</p>
+        <p class="text-gray-800"><strong>Previous Score:</strong> {{ score }}</p>
+        <p class="text-blue-700 mt-4"><strong>System Suggests:</strong> {{ recommendation }}</p>
+        <br>
+        <a href="/" class="inline-block mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition">Go Back</a>
+    </div>
+</body>
+</html>
