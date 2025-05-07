@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personalized Virtual Tutor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="bg-white p-8 rounded shadow-md w-full max-w-md">
+        <h1 class="text-2xl font-bold text-center text-blue-600 mb-6">Personalized Virtual Tutor</h1>
+        <form method="POST" action="/predict" class="space-y-4">
+            <div>
+                <label for="topic" class="block text-gray-700">Topic:</label>
+                <input type="text" name="topic" required
+                       class="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400">
+            </div>
+            <div>
+                <label for="score" class="block text-gray-700">Previous Score (0–100):</label>
+                <input type="number" name="score" step="any" min="0" max="100" required
+                       class="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400">
+            </div>
+            <div class="text-center">
+                <input type="submit" value="Get Recommendation"
+                       class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

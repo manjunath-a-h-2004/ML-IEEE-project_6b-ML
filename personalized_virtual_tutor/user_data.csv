@@ -1,0 +1,23 @@
+StudentID,Topic,Score
+1,Variables,78
+1,Loops,60
+1,Functions,90
+1,Recursion,50
+2,Operating Systems,82
+2,TCP/IP,65
+2,Normalization,70
+3,SDLC,60
+3,UML,75
+3,Search Algorithms,40
+3,HTML,85
+4,Flask,62
+4,JavaScript,70
+4,SQL,58
+4,HTML,80
+5,Data Structures,88
+5,Algorithms,75
+5,Machine Learning,90
+5,Deep Learning,85
+5,AI,95
+5,Neural Networks,80
+5,Computer Vision,78
